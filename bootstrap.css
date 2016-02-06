@@ -1,23 +1,36 @@
+
+.form-inline{
+	float: right;
+	margin-right: 50px;
+/*	padding-top: 10px;
+	padding-right: 200px;*/
+
+}
+
+.name{
+	color: #D2D7D3;
+	text-decoration: none;
+	background-color: black; 
+	font-size: 18px;
+/*	padding-top: 10px;
+	padding-left: 200px;*/
+}
+
+.name a:hover{
+	color: white;
+	text-decoration: none; 
+
+}
+
+.jumbotron{
+/*	padding: 60px 400px 60px 400px; */
+}
+
 h1{
 	font-size: 60px;
 	display: block; 
 }
 
-.gray { 
-	background-color: #ECF0F1; 
-	display: block; 
-}
-
-.gray button{
-	display: block; 
-	width: 200px;
-	height: 30px;
-}
-.form {
-	background-color: black;
-	color: grey;
-	display: inline;
-}
 
 .form p {
 	font-weight: bold;
@@ -28,5 +41,10 @@ h1{
 h2 {
 	display: block;
 	font-size: 36px; 
+}
+
+.footer{
+	padding-top: 2em; 
+
 }
 
